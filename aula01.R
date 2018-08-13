@@ -1,8 +1,9 @@
+##################################### 
 ### Analytics
 ## Aula 1
 ## Prof. Neylson Crepalde
 ## Aluno: Nelson de Campos Nolasco
-##########################
+####################################
 
 # Se as bibliotecas necessárias não estiveram instaladas, instale
 if (!"readr" %in% installed.packages()) install.packages("readr")
