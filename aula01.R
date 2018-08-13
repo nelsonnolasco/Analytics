@@ -10,12 +10,14 @@ if (!"readr" %in% installed.packages()) install.packages("readr")
 if (!"dplyr" %in% installed.packages()) install.packages("dplyr")
 if (!"ggplot2" %in% installed.packages()) install.packages("ggplot2")
 if (!"haven" %in% installed.packages()) install.packages("haven")
+if (!"descr" %in% installed.packages()) install.packages("descr")
 
 # Carregando as bibliotecas necessárias
-library(readr)
-library(dplyr)
-library(ggplot2)
-library(haven)
+library(readr)   # leitura de Banco de Dados
+library(dplyr)   # Manipulação de Dados
+library(ggplot2) # Gráficos
+library(haven)   # Leitura de Banco de Dados de outros softwares
+library(descr)   # Análises Descritivas
 
 # Carrega uma amostra da PNAD 2014
 
