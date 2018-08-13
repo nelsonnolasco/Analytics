@@ -1,6 +1,6 @@
 ##################################### 
 ### Analytics
-## Aula 1
+## Aula 1 - (10 e 13/08/2018)
 ## Prof. Neylson Crepalde
 ## Aluno: Nelson de Campos Nolasco
 ####################################
